@@ -32,15 +32,15 @@
         "icon": "https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"
     },
     {
-        "nome": ".NET",
+        "name": ".NET",
         "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"
     },
     {
-        "nome": "Unreal Engine",
+        "name": "Unreal Engine",
         "icon": "https://icongr.am/simple/unrealengine.svg?size=96&color=ffffff&colored=false"
     },
     {
-        "nome": "Unity",
+        "name": "Unity",
         "icon": "https://icongr.am/simple/unity.svg?size=96&color=ffffff&colored=false"
     }
 ]
