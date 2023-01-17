@@ -1,0 +1,46 @@
+[
+    {
+        "name": "C#",
+        "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+    },
+    {
+        "name": "C++",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+    },
+    {
+        "name": "Microsoft SQL Server",
+        "icon": "https://icongr.am/simple/microsoftsqlserver.svg?size=96&color=ff4d4d&colored=false"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=af4dff"
+    },
+    {
+        "name": "Git",
+        "icon": "https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"
+    },
+    {
+        "nome": ".NET",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"
+    },
+    {
+        "nome": "Unreal Engine",
+        "icon": "https://icongr.am/simple/unrealengine.svg?size=96&color=ffffff&colored=false"
+    },
+    {
+        "nome": "Unity",
+        "icon": "https://icongr.am/simple/unity.svg?size=96&color=ffffff&colored=false"
+    }
+]
