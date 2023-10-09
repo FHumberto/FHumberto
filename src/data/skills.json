@@ -36,6 +36,18 @@
         "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/dot-net.svg"
     },
     {
+        "name": "Blazor",
+        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/blazor.svg"
+    },
+    {
+        "name": "React",
+        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/react.svg"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/docker.svg"
+    },
+    {
         "name": "Unreal Engine",
         "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/unrealengine.svg"
     },
