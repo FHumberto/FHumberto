@@ -76,6 +76,21 @@ Desenvolvimento de Jogos. Web. Full-Stack. IA.
                 .NET
         </td>
         <td align="center" width="96">
+            <img src="https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/blazor.svg" width="96"
+                alt="Icone-DotNet">
+                Blazor
+        </td>
+        <td align="center" width="96">
+            <img src="https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/react.svg" width="96"
+                alt="Icone-React">
+                React
+        </td>
+        <td align="center" width="96">
+            <img src="https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/docker.svg" width="96"
+                alt="Icone-Docker">
+                Docker
+        </td>
+        <td align="center" width="96">
             <img src="https://icongr.am/simple/unrealengine.svg?size=96&color=ffffff&colored=false"
                 width="96" alt="Icone-UnrealEngine">
                 Unreal Engine
