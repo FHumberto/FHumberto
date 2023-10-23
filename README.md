@@ -90,6 +90,7 @@ Desenvolvimento de Jogos. Web. Full-Stack. IA.
                 alt="Icone-Docker">
                 Docker
         </td>
+    <tr>
         <td align="center" width="96">
             <img src="https://icongr.am/simple/unrealengine.svg?size=96&color=ffffff&colored=false"
                 width="96" alt="Icone-UnrealEngine">
@@ -100,6 +101,7 @@ Desenvolvimento de Jogos. Web. Full-Stack. IA.
                 width="96" alt="Icone-Unity">
                 Unity
         </td>
+    </tr>
         <td align="center" width="96">
         </td>
     </tr>
