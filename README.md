@@ -102,9 +102,6 @@ Desenvolvimento de Jogos. Web. Full-Stack. IA.
                 Unity
         </td>
     </tr>
-        <td align="center" width="96">
-        </td>
-    </tr>
 </table>
 
 ## Projetos
