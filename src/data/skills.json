@@ -1,58 +1,70 @@
 [
-    {
-        "name": "C#",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/csharp.svg"
-    },
-    {
-        "name": "C++",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/cpp.svg"
-    },
-    {
-        "name": "HTML5",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/html5.svg"
-    },
-    {
-        "name": "CSS",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/css3.svg"
-    },
-    {
-        "name": "JavaScript",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/javascript.svg"
-    },
-    {
-        "name": "Microsoft SQL Server",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/microsoftsqlserver.svg"
-    },
-    {
-        "name": "Bootstrap",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/bootstrap.svg"
-    },
-    {
-        "name": "Git",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/git.svg"
-    },
-    {
-        "name": ".NET",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/dot-net.svg"
-    },
-    {
-        "name": "Blazor",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/blazor.svg"
-    },
-    {
-        "name": "React",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/react.svg"
-    },
-    {
-        "name": "Docker",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/docker.svg"
-    },
-    {
-        "name": "Unreal Engine",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/unrealengine.svg"
-    },
-    {
-        "name": "Unity",
-        "icon": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/skills/unity.svg"
-    }
+  {
+    "Icon": "DeviconPlain.Csharp",
+    "Name": "C#"
+  },
+  {
+    "Icon": "DeviconPlain.Cplusplus",
+    "Name": "C++"
+  },
+  {
+    "Icon": "DeviconPlain.Html5",
+    "Name": "HTML5"
+  },
+  {
+    "Icon": "DeviconPlain.Css3",
+    "Name": "CSS3"
+  },
+  {
+    "Icon": "DeviconPlain.Javascript",
+    "Name": "JavaScript"
+  },
+  {
+    "Icon": "DeviconPlain.Dotnetcore",
+    "Name": "Dotnet Core"
+  },
+  {
+    "Icon": "MdiIcon.DotNet",
+    "Name": "DotNet"
+  },
+  {
+    "Icon": "DeviconLine.Blazor",
+    "Name": "Blazor"
+  },
+  {
+    "Icon": "DeviconPlain.Microsoftsqlserver",
+    "Name": "SQL Server"
+  },
+  {
+    "Icon": "DeviconPlain.Docker",
+    "Name": "Docker"
+  },
+  {
+    "Icon": "MdiIcon.Unreal",
+    "Name": "Unreal Engine"
+  },
+  {
+    "Icon": "MdiIcon.Unity",
+    "Name": "Unity"
+  },
+  {
+    "Icon": "MdiIcon.BlenderSoftware",
+    "Name": "Blender"
+  },
+  {
+    "Icon": "BootstrapIcon.Git",
+    "Name": "Git"
+  },
+  {
+    "Icon": "BootstrapIcon.BootstrapFill",
+    "Name": "Bootstrap"
+  },
+  {
+    "Icon": "MdiIcon.React",
+    "Name": "React"
+  },
+  {
+    "Icon": "MdiIcon.BlenderSoftware",
+    "Name": "Blender"
+  }
 ]
