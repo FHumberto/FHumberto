@@ -1,7 +1,7 @@
 [
   {
     "Type": "Web",
-    "Cover": "https://raw.githubusercontent.com/FHumberto/PES-IN-CDC_CRUD/main/project/demo.gif",
+    "Cover": "https://raw.githubusercontent.com/FHumberto/PES-IN-CDC_CRUD/main/project/CDC.jpg",
     "Name": "Catalogo de Cartas",
     "Description": "Faz a listagem, cadastro, leitura e remoção de cartas. Projetado para catalogar minhas cartas de Magic: The Gathering.",
     "Tools": [
@@ -31,7 +31,7 @@
   },
   {
     "Type": "Desktop",
-    "Cover": "https://raw.githubusercontent.com/FHumberto/PES-PF-ODD/main/project/demo.gif",
+    "Cover": "https://raw.githubusercontent.com/FHumberto/PES-PF-ODD/main/project/ODD.jpg",
     "Name": "Organizador de Arquivos",
     "Description": "Agrupa arquivos semelhantes em diferentes categorias dentro do diretório esppecificado. Projetado para atender uma necessidade específica od autor",
     "Tools": [
@@ -49,7 +49,7 @@
   },
   {
     "Type": "Desktop",
-    "Cover": "https://placehold.co/366x200",
+    "Cover": "https://raw.githubusercontent.com/FHumberto/Gerenciador-de-Backup-Docker/main/about/GBD.jpg",
     "Name": "Sincronizador de Volumes",
     "Description": "Monitora e controla os arquivos de backup de volumes dos containers docker.",
     "Tools": [
