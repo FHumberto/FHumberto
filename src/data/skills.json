@@ -62,9 +62,5 @@
   {
     "Icon": "MdiIcon.React",
     "Name": "React"
-  },
-  {
-    "Icon": "MdiIcon.BlenderSoftware",
-    "Name": "Blender"
   }
 ]
