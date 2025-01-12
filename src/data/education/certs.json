@@ -1,5 +1,13 @@
 [
   {
+    "Cover": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/education/certs/008-UC-f7d3b3ed-8462-4d07-97f9-0438318d20a4",
+    "EndDate": "Jan/2025",
+    "Name": "The Complete SQL Course 2024 - Learn by Doing - SQL Server",
+    "Institution": "Udemy",
+    "Instructor": "Daniel Trait",
+    "Link": "https://www.udemy.com/certificate/UC-f7d3b3ed-8462-4d07-97f9-0438318d20a4/"
+  },
+  {
     "Cover": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/education/certs/007-UC-317444f5-62bd-48e0-9be5-26beca25f2eb.jpg",
     "EndDate": "Jul/2024",
     "Name": "Entity Framework Core - The Complete Guide (.NET Core 7)",
