@@ -6,9 +6,16 @@
 Bem-vindo(a) a minha página do GitHub. Sou bacharel em Ciências da Computação e pós-graduado em Engenharia de Software. Gosto de resolver problemas com programação. E busco a cada dia me tornar um desenvolvedor melhor.
 </P>
 
-## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,cpp,)](https://skillicons.dev)
+## STACK-WEB
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,docker)](https://skillicons.dev)
+
+## GAME-DEV
+
+[![My Skills](https://skillicons.dev/icons?i=blender,unity,unreal,)](https://skillicons.dev)
+
+
 
 ## Onde me encontrar:
 
