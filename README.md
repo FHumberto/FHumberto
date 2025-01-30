@@ -1,9 +1,9 @@
 # Olá!
 
-Meu nome é **Humberto Guedes**, sou **desenvolvedor generalista** com experiência na área de **desenvolvimento web** e atualmente estou direcionando minha carreira para me especializar na stack **.NET**.
-Sou bacharel em Ciências da Computação e pós-graduado em Engenharia de Software. Além disso, nas horas vagas, me dedico ao desenvolvimento de jogos.
-
-Tenho uma paixão genuína por resolver problemas através da programação e estou constantemente em busca de aprimorar minhas habilidades para me tornar um profissional cada vez melhor.
+Meu nome é **Humberto Guedes**, sou um **Desenvolvedor Generalista** com experiência em **desenvolvimento web** e **desktop**, especializado na manutenção e evolução de sistemas em **.NET**.
+Graduado em Ciências da Computação e pós-graduado em Engenharia de Software, sou apaixonado por resolver problemas por meio da programação. 
+Busco constantemente aprimorar minhas habilidades para evoluir como profissional, estando sempre disposto a aprender o que for necessário para alcançar esse objetivo.
+No tempo livre, dedico-me ao desenvolvimento de jogos.
 
 - Software Developer
 - Atualmente Trabalhando com: **.NET** e **React**
