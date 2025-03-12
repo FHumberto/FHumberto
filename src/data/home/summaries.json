@@ -1,37 +1,5 @@
 [
   {
-    "Name": "Desenvolvimento de Jogos",
-    "Cover": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/home/DDJ.gif",
-    "Tools": [
-      {
-        "Icon": "DeviconPlain.Csharp",
-        "Name": "C#"
-      },
-      {
-        "Icon": "DeviconPlain.Cplusplus",
-        "Name": "C++"
-      },
-      {
-        "Icon": "MdiIcon.Unreal",
-        "Name": "Unreal Engine"
-      },
-      {
-        "Icon": "MdiIcon.Unity",
-        "Name": "Unity"
-      },
-      {
-        "Icon": "MdiIcon.BlenderSoftware",
-        "Name": "Blender"
-      }
-    ],
-    "Points": [
-      "Criação de jogos para plataformas desktop e móveis",
-      "Design de mecânicas e interfaces",
-      "Otimização de desempenho e recursos",
-      "Tradução e desenvolvimento de mods"
-    ]
-  },
-  {
     "Name": "Desenvolvimento Web Full-Stack",
     "Cover": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/home/DFS.png",
     "Tools": [
@@ -73,6 +41,38 @@
       "Desenho de arquiteturas escaláveis e seguras",
       "Otimização de desempenho e eficiência do banco de dados",
       "Integração de APIs de terceiros e serviços web"
+    ]
+  },
+  {
+    "Name": "Desenvolvimento de Jogos",
+    "Cover": "https://raw.githubusercontent.com/FHumberto/FHumberto/main/src/img/home/DDJ.gif",
+    "Tools": [
+      {
+        "Icon": "DeviconPlain.Csharp",
+        "Name": "C#"
+      },
+      {
+        "Icon": "DeviconPlain.Cplusplus",
+        "Name": "C++"
+      },
+      {
+        "Icon": "MdiIcon.Unreal",
+        "Name": "Unreal Engine"
+      },
+      {
+        "Icon": "MdiIcon.Unity",
+        "Name": "Unity"
+      },
+      {
+        "Icon": "MdiIcon.BlenderSoftware",
+        "Name": "Blender"
+      }
+    ],
+    "Points": [
+      "Criação de jogos para plataformas desktop e móveis",
+      "Design de mecânicas e interfaces",
+      "Otimização de desempenho e recursos",
+      "Tradução e desenvolvimento de mods"
     ]
   }
 ]
