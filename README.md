@@ -22,11 +22,11 @@ Meu nome é **Humberto Guedes**, sou um **Desenvolvedor .NET** com experiência 
 
 ## **Stack Web**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,docker,net)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,net,angular,docker)](https://skillicons.dev)
 
 ## **Stack Game-Dev**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,blender,godot,unity,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,blender,unity,)](https://skillicons.dev)
 
 #
 
