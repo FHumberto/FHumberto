@@ -14,7 +14,7 @@ No tempo livre, dedico-me ao desenvolvimento de jogos.
 
 ## GAME-DEV
 
-[![My Skills](https://skillicons.dev/icons?i=blender,unity,unreal,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,unity,unreal,)](https://skillicons.dev)
 
 ## Onde me encontrar:
 
@@ -25,3 +25,12 @@ No tempo livre, dedico-me ao desenvolvimento de jogos.
   <a href="mailto:fhumberto.trab@hotmail.com"/>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
+
+#
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FHumberto&show_icons=true&theme=dark&hide=contribs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FHumberto&layout=donut&langs_count=5&theme=dark" />
+</a>
