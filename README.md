@@ -30,7 +30,7 @@ No tempo livre, dedico-me ao desenvolvimento de jogos.
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=FHumberto&show_icons=true&theme=dark&hide=contribs" />
+    <img width="49%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=FHumberto&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img width="49%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FHumberto&layout=donut&langs_count=4&theme=dark" />
